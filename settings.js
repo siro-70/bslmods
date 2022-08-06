@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['18075001036,919544685703']
-global.premium = ['18075001036,919544685703']
-global.ownernomer = '18075001036,919544685703'
-global.ownername = '𝑩𝑺𝑳'
-global.botname = '𝑩𝑺𝑳 𝑺𝑬𝑹 𝑩𝑶𝑻'
-global.footer = '©ʙꜱʟᴍᴏᴅꜱ'
+global.owner = ['79586848937']
+global.premium = ['79586848937']
+global.ownernomer = '79586848937'
+global.ownername = 'Alex'
+global.botname = 'Alex Bot'
+global.footer = 'Alex Bot'
 global.ig = '🌝thekot noki irunal mathi'
 global.region = 'India, South India, Kerala'
 global.sc = '🌝thekot noki irunal mathi'
@@ -32,19 +32,19 @@ global.myweb = 'https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng'
 global.packname = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.author = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['🥹','!'✨'😉'👑'💎'✋🏻'💗','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'تم✓',
+    admin: 'هذا الأمر للمشرف فقط! ',
+    botAdmin: 'يجب أن يكون البوت مشرف أولاً!',
+    owner: 'هءه الميزة للمالك فقط! ',
+    group: 'الميزة مستخدمة للمجموعات فقك',
+    private: 'هذة الميزات للدردشات الخاصه فقط! ',
+    bot: 'هذه الميزة مخصصة للبوت فقك',
+    wait: 'أنتظر لحظه... ',
+    error: 'خطأ! ربما انتهت صلاحية مفتاح Api!‏',
+    endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
 }
     global.limitawal = {
     premium: "Infinity",
